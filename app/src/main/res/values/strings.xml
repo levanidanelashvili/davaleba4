@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">x and 0</string>
+    <string name="refresh">REFRESH</string>
+    <string name="first_score">First score</string>
+    <string name="second_score">Second score</string>
+
+</resources>
